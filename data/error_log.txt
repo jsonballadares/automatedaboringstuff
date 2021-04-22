@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/jasonballadares/repos/automatedaboringstuff/src/tryandexcept.py", line 4, in <module>
+    raise Exception('this is an error message')
+Exception: this is an error message
